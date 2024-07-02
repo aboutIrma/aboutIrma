@@ -13,10 +13,10 @@
 - [Email](mailto:04010120011@student.uinsby.ac.id)
 
 ### My GitHub Stats:
-![Irma's GitHub stats](https://github-readme-stats.vercel.app/api?username=IrmaNurOctaviani&show_icons=true&theme=radical)
+![Irma's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutIrma&show_icons=true&theme=radical)
 
 ### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrmaNurOctaviani&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutIrma&layout=compact&theme=radical)
 
 ### Let's Connect!
 <p align="center">
